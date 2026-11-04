@@ -1,2 +1,20 @@
-orcid: "https://orcid.org/0000-0002-9655-7182"
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+
+title: "test.github2"
+type: software
+
+authors:
+  - family-names: "Liang"
+    given-names: "L"
+    affiliation: "University of Groningen"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+
+repository-code: "https://github.com/Leiai1943/test.github2"
+
+version: "1.0.0"
+
+date-released: 2026-11-04
+
+
 
